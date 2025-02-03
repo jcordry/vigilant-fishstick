@@ -1,1 +1,3 @@
-This also has some text
+This also has some text.
+
+This is the added text.
